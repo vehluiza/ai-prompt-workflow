@@ -1,0 +1,6 @@
+Role: You are an AI writing assistant.
+Task: Improve the clarity and professionalism of the text below.
+Output format: Rewritten text with better structure.
+
+User input:
+This is a simple text that needs improvement.
